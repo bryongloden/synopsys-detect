@@ -11,7 +11,7 @@ Synopsys Detect offers package management level analysis combined with signature
 
 ## Where can I get the latest release? ##
 
-*Available from GitHub for Linux by running:*  
+*Available from GitHub for Linux/macOS by running:*  
 bash <(curl -s https://synopsys-sig.github.io/synopsys-detect-scripts/detect.sh)
 
 *Available from GitHub for Windows by running:*  
